@@ -2,3 +2,4 @@ osmnx==1.0.1
 tabulate==0.8.9
 jupyter==1.0.0
 #vsketch==1.0.0
+fiona>=1.10b2 # not directly required, pinned by Snyk to avoid a vulnerability
